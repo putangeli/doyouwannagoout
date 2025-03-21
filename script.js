@@ -14,3 +14,7 @@ function moveButton() {
     button.style.left = newX + "px";
     button.style.top = newY + "px";
 }
+
+function thirdPage() {
+    window.location.href = "wheredowego.html";
+}
